@@ -18,6 +18,7 @@ The backend is built using **Spring Boot** and connects to a **MySQL** database 
 - **Backend**: Spring Boot, Java  
 - **Database**: MySQL  
 - **Frontend**: Thymeleaf  
-- **Development Tools**: IntelliJ IDEA, MySQL Workbench  
+- **Development Tools**: IntelliJ IDEA, MySQL Workbench
+
 ![image](https://github.com/user-attachments/assets/22f062d1-abed-4fe1-938e-e0432b1d9efd)
 
