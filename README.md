@@ -1,18 +1,33 @@
-# Student_Management-System
+# Student Management System
 
-This is a Spring Boot application designed for managing student data. The application provides users with the ability to perform basic CRUD operations, including:
-Adding a new student
-Updating student details
-Deleting a student record
-The backend is built using Spring Boot and connects to a MySQL database to store and retrieve student data. Thymeleaf is used for rendering the frontend, providing a dynamic user interface that allows users to interact with the application seamlessly.
+## Overview
+This is a **Spring Boot** application designed for managing student data. The application allows users to perform basic **CRUD** (Create, Read, Update, Delete) operations, including:
 
-**Key Features:**
-Student Management: Admin users can easily add new students, update their details, and delete records.
-Data Persistence: The application connects to a MySQL database where all student data is stored and managed.
-User Interface: The frontend is built using Thymeleaf, which enables smooth rendering of dynamic content and forms for adding/updating student records.
-Technologies Used:
-Backend: Spring Boot, Java
-Database: MySQL
-Frontend: Thymeleaf
-Development Tools: IntelliJ IDEA, MySQL Workbench
-The application provides a simple yet effective solution for managing student information and serves as a practical demonstration of using Spring Boot to build full-stack web applications.
+- Adding a new student  
+- Updating student details  
+- Deleting a student record  
+
+The backend is built using **Spring Boot** and connects to a **MySQL** database for storing and retrieving student data. **Thymeleaf** is used for rendering the frontend, providing a dynamic user interface.
+
+## Key Features
+- **Student Management**: Admin users can easily add, update, and delete student records.  
+- **Data Persistence**: Uses MySQL to store student details efficiently.  
+- **User Interface**: Thymeleaf templates ensure a seamless and dynamic UI experience.  
+
+## Technologies Used
+- **Backend**: Spring Boot, Java  
+- **Database**: MySQL  
+- **Frontend**: Thymeleaf  
+- **Development Tools**: IntelliJ IDEA, MySQL Workbench  
+
+## Setup and Installation
+### Prerequisites
+- Java 17+  
+- MySQL installed and running  
+- Maven or Gradle  
+
+### Steps to Run the Application
+1. **Clone the Repository**  
+   ```sh
+   git clone https://github.com/your-repo/student-management.git
+   cd student-management
