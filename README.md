@@ -20,14 +20,3 @@ The backend is built using **Spring Boot** and connects to a **MySQL** database 
 - **Frontend**: Thymeleaf  
 - **Development Tools**: IntelliJ IDEA, MySQL Workbench  
 
-## Setup and Installation
-### Prerequisites
-- Java 17+  
-- MySQL installed and running  
-- Maven or Gradle  
-
-### Steps to Run the Application
-1. **Clone the Repository**  
-   ```sh
-   git clone https://github.com/your-repo/student-management.git
-   cd student-management
